@@ -1,0 +1,39 @@
+html,body {
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+    background-color: rgb(237, 223, 203);
+}
+
+
+.head {
+    font-size: 3rem;
+    color: brown;
+}
+
+.button {
+    padding: 10px;
+    margin: 0 3px;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 59px;
+    background-color: rgb(241, 232, 232);
+    color: red;
+    box-shadow: 1px 1px blue;
+    font-size: 20px;
+}
+
+.row {
+    margin: 8px 0;
+}
+
+.row .input {
+    margin: 0;
+    padding: 10px 10px;
+    border: 1px solid black ;
+    border-radius: 5px;
+    font-size: 20px;
+    box-shadow: 1px 1px  blue;
+    height: 3rem;
+
+}

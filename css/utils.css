@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+SC:wght@300&display=swap');
+
+
+.text-center {
+    text-align: center;
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.bold {
+    font-weight: bold;
+    background-color: rgb(75, 113, 248);
+    color: white;
+}
